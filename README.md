@@ -3,12 +3,11 @@
 <!--
 **RisyadAzhary/RisyadAzhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 i am fresh graduate student at the telkom university, pursuing a bachelor degree in Telecomunication engineering, in the beggining of 2020 i've entered the world of programming. 
 
 - 🌱 I’m currently learning VueJs and ReactJS
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: 
--->
 
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -16,8 +15,7 @@ i am fresh graduate student at the telkom university, pursuing a bachelor degree
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
 
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 
 - ⚙️ I also use and work: 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
