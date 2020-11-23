@@ -1,9 +1,5 @@
 ### Hi I'm Risyad 👋
 
-<!--
-**RisyadAzhary/RisyadAzhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 i am fresh graduate student at the telkom university, pursuing a bachelor degree in Telecomunication engineering, in the beggining of 2020 i've entered the world of programming. 
 
 - 🌱 I’m currently learning VueJs and ReactJS
