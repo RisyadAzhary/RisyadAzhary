@@ -18,8 +18,8 @@ i am fresh graduate student at the telkom university, pursuing a bachelor degree
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ [![NodeJS](<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>)
+ [![Javascript]<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 - ⚡️ Fun fact: I love connecting with different people so if you want to say hi, I'll be happy to meet you more! blush
 
