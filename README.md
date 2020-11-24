@@ -6,21 +6,39 @@ i am fresh graduate student at the telkom university, pursuing a bachelor degree
 - 😄 Pronouns: He/him
 
 - 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+
+  ![javascrpt](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 - 💻 I work using:
 
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+
 
 - ⚙️ I also use and work: 
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+
+  ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![jquery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+  ![vueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+  ![firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
+  ![github](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 - 🌱 Learning all about:
- [![NodeJS](<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>)
- [![Javascript]<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-- ⚡️ Fun fact: I love connecting with different people so if you want to say hi, I'll be happy to meet you more! blush
+  ![nodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![expressJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge) ![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Check out some of my work:
+- ⚡️ Fun fact: I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
+
+-  contact me in :
+
+    [![linkedin](https://img.shields.io/badge/-risyad_azhary%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-risyad-azhary-571021112)
+[![Gmail](https://img.shields.io/badge/-risyad01@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:risyad01@gmail.com)](mailto:risyad01@gmail.com)
+
+-Check out some of my work:
+* Todo App
+* Kanban
+* e-commerce-cms
+* e-commerce-client
+
