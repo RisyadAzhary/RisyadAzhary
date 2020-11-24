@@ -2,9 +2,6 @@
 
 i am fresh graduate student at the telkom university, pursuing a bachelor degree in Telecomunication engineering, in the beggining of 2020 i've entered the world of programming. 
 
-- 🌱 I’m currently learning VueJs and ReactJS
-- 😄 Pronouns: He/him
-
 - 🚀 I use daily:
 
   ![javascrpt](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
