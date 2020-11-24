@@ -1,6 +1,7 @@
 ### Hi I'm Risyad 👋
 
-i am fresh graduate student at the telkom university, pursuing a bachelor degree in Telecomunication engineering, in the beggining of 2020 i've entered the world of programming. 
+
+I am a new graduate of Telkom University majoring in telecommunications engineering, early 2020 I have entered the world of programming.
 
 - 🚀 I use daily:
 
