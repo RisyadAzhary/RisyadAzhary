@@ -29,7 +29,6 @@ I am a new graduate of Telkom University majoring in telecommunications engineer
 -  contact me in :
 
     [![linkedin](https://img.shields.io/badge/-risyad_azhary%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-risyad-azhary-571021112)
-[![Gmail](https://img.shields.io/badge/-risyad01@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:risyad01@gmail.com)](mailto:risyad01@gmail.com)
 
 -Check out some of my work:
 * Todo App
